@@ -32,15 +32,15 @@ jobs:
       # NOTE: This commits everything in the `data` directory. Make sure this matches your needs
       - name: Git commit
         run: |
-          git add akaka.csv
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Commiting data"
+          git add akaka.csv
+          git commit -m "Add data for $DATE"
 
       # NOTE: Check that your branch name is correct here
-      - name: Git push
-        run: |
-          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
 
