@@ -9,7 +9,7 @@ import os
 page = requests.get("https://www.idokep.hu/idojaras/Budapest")
 soup = BeautifulSoup(page.content, "html.parser")
 
-ftDict = {"ScDay":[], "Day":[], "Date":[], "TempMax":[], "TempMin":[], "W1":[], "W2":[]}
+ftDict = {"ScDay":[], "ScTime":[], "Day":[], "Date":[], "TempMax":[], "TempMin":[], "W1":[], "W2":[]}
 td = datetime.today().strftime('%Y-%m-%d')
 
 s1 = soup.select("div.dailyForecastCol div.dfIconAlert a")
@@ -19,6 +19,10 @@ s4 = soup.select("div.dailyForecastCol div.dfIconAlert a")
 
 for i in range(0,len(s1)):
     ftDict["ScDay"].append(td)
+    if datetime.now().strftime("%H:%M:%S") > '12:00:00':
+        ftDict["ScTime"].append(22)
+    else:
+        ftDict["ScTime"].append(10)
     ftDict["Day"].append(s1[i]["title"].split("<br>")[0])
     ftDict["Date"].append(s1[i]["title"].split("<br>")[1])
     ftDict["TempMax"].append(s2[i].text)
