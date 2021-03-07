@@ -1,76 +1,76 @@
-,ScDay,ScTime,Day,Date,TempMax,TempMin,W1,W2
-0,2021-03-05,10,Péntek,2021. március 5.,8,4,erősen felhős,Hidegfront erős széllel
-1,2021-03-05,10,Szombat,2021. március 6.,6,-3,gyengén felhős,
-2,2021-03-05,10,Vasárnap,2021. március 7.,7,-5,derült,
-3,2021-03-05,10,Hétfő,2021. március 8.,8,-4,közepesen felhős,
-4,2021-03-05,10,Kedd,2021. március 9.,9,-3,erősen felhős,
-5,2021-03-05,10,Szerda,2021. március 10.,10,-2,közepesen felhős,Melegfront
-6,2021-03-05,10,Csütörtök,2021. március 11.,11,3,zápor,Hidegfront erős széllel
-7,2021-03-05,10,Péntek,2021. március 12.,10,5,zápor,
-8,2021-03-05,10,Szombat,2021. március 13.,11,4,közepesen felhős,
-9,2021-03-05,10,Vasárnap,2021. március 14.,10,5,zápor,
-10,2021-03-05,10,Hétfő,2021. március 15.,9,4,erősen felhős,
-11,2021-03-05,10,Kedd,2021. március 16.,8,3,közepesen felhős,
-12,2021-03-05,10,Szerda,2021. március 17.,7,2,zápor,
-13,2021-03-05,10,Csütörtök,2021. március 18.,6,3,közepesen felhős,
-14,2021-03-05,10,Péntek,2021. március 19.,9,3,közepesen felhős,
-15,2021-03-05,22,Szombat,2021. március 6.,6,-3,gyengén felhős,
-16,2021-03-05,22,Vasárnap,2021. március 7.,8,-5,derült,
-17,2021-03-05,22,Hétfő,2021. március 8.,8,-4,gyengén felhős,
-18,2021-03-05,22,Kedd,2021. március 9.,8,-3,erősen felhős,
-19,2021-03-05,22,Szerda,2021. március 10.,9,-3,gyengén felhős,
-20,2021-03-05,22,Csütörtök,2021. március 11.,12,1,zápor,Szeles nap
-21,2021-03-05,22,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel
-22,2021-03-05,22,Szombat,2021. március 13.,11,4,erősen felhős,
-23,2021-03-05,22,Vasárnap,2021. március 14.,10,4,zápor,
-24,2021-03-05,22,Hétfő,2021. március 15.,9,3,gyenge eső,
-25,2021-03-05,22,Kedd,2021. március 16.,8,2,erősen felhős,
-26,2021-03-05,22,Szerda,2021. március 17.,9,2,közepesen felhős,
-27,2021-03-05,22,Csütörtök,2021. március 18.,10,2,közepesen felhős,
-28,2021-03-05,22,Péntek,2021. március 19.,11,3,zápor,
-29,2021-03-05,22,Szombat,2021. március 20.,12,3,gyengén felhős,
-30,2021-03-06,10,Szombat,2021. március 6.,6,-4,gyengén felhős,
-31,2021-03-06,10,Vasárnap,2021. március 7.,8,-5,derült,
-32,2021-03-06,10,Hétfő,2021. március 8.,8,-4,gyengén felhős,
-33,2021-03-06,10,Kedd,2021. március 9.,8,-3,erősen felhős,
-34,2021-03-06,10,Szerda,2021. március 10.,9,-3,gyengén felhős,
-35,2021-03-06,10,Csütörtök,2021. március 11.,12,1,zápor,Szeles nap
-36,2021-03-06,10,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel
-37,2021-03-06,10,Szombat,2021. március 13.,11,4,erősen felhős,
-38,2021-03-06,10,Vasárnap,2021. március 14.,10,4,zápor,
-39,2021-03-06,10,Hétfő,2021. március 15.,9,3,gyenge eső,
-40,2021-03-06,10,Kedd,2021. március 16.,8,2,erősen felhős,
-41,2021-03-06,10,Szerda,2021. március 17.,9,2,közepesen felhős,
-42,2021-03-06,10,Csütörtök,2021. március 18.,10,2,közepesen felhős,
-43,2021-03-06,10,Péntek,2021. március 19.,11,3,zápor,
-44,2021-03-06,10,Szombat,2021. március 20.,12,3,gyengén felhős,
-45,2021-03-06,22,Vasárnap,2021. március 7.,8,-7,derült,
-46,2021-03-06,22,Hétfő,2021. március 8.,9,-6,közepesen felhős,
-47,2021-03-06,22,Kedd,2021. március 9.,7,-4,erősen felhős,
-48,2021-03-06,22,Szerda,2021. március 10.,8,-1,zápor,Szeles nap
-49,2021-03-06,22,Csütörtök,2021. március 11.,10,-2,erősen felhős,Szeles nap
-50,2021-03-06,22,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel
-51,2021-03-06,22,Szombat,2021. március 13.,11,3,zápor,Szeles nap
-52,2021-03-06,22,Vasárnap,2021. március 14.,9,4,zápor,
-53,2021-03-06,22,Hétfő,2021. március 15.,9,2,zápor,
-54,2021-03-06,22,Kedd,2021. március 16.,8,2,zápor,
-55,2021-03-06,22,Szerda,2021. március 17.,7,1,erősen felhős,
-56,2021-03-06,22,Csütörtök,2021. március 18.,8,2,erősen felhős,
-57,2021-03-06,22,Péntek,2021. március 19.,9,2,közepesen felhős,
-58,2021-03-06,22,Szombat,2021. március 20.,10,3,közepesen felhős,
-59,2021-03-06,22,Vasárnap,2021. március 21.,13,3,közepesen felhős,
-60,2021-03-07,10,Vasárnap,2021. március 7.,8,-7,derült,
-61,2021-03-07,10,Hétfő,2021. március 8.,9,-6,közepesen felhős,
-62,2021-03-07,10,Kedd,2021. március 9.,7,-4,erősen felhős,
-63,2021-03-07,10,Szerda,2021. március 10.,8,-3,közepesen felhős,
-64,2021-03-07,10,Csütörtök,2021. március 11.,9,-4,erősen felhős,Szeles nap
-65,2021-03-07,10,Péntek,2021. március 12.,12,4,zápor,Szeles nap
-66,2021-03-07,10,Szombat,2021. március 13.,12,3,közepesen felhős,Szeles nap
-67,2021-03-07,10,Vasárnap,2021. március 14.,12,3,erősen felhős,
-68,2021-03-07,10,Hétfő,2021. március 15.,11,4,zápor,
-69,2021-03-07,10,Kedd,2021. március 16.,10,4,erősen felhős,
-70,2021-03-07,10,Szerda,2021. március 17.,10,3,zápor,
-71,2021-03-07,10,Csütörtök,2021. március 18.,10,4,zápor,
-72,2021-03-07,10,Péntek,2021. március 19.,10,3,erősen felhős,
-73,2021-03-07,10,Szombat,2021. március 20.,11,3,közepesen felhős,
-74,2021-03-07,10,Vasárnap,2021. március 21.,13,3,közepesen felhős,
+,ScDay,ScTime,Day,Date,TempMax,TempMin,W1,W2,DateFormat
+0,2021-03-05,10,Péntek,2021. március 5.,8,4,erősen felhős,Hidegfront erős széllel,2021-03-05
+1,2021-03-05,10,Szombat,2021. március 6.,6,-3,gyengén felhős,,2021-03-06
+2,2021-03-05,10,Vasárnap,2021. március 7.,7,-5,derült,,2021-03-07
+3,2021-03-05,10,Hétfő,2021. március 8.,8,-4,közepesen felhős,,2021-03-08
+4,2021-03-05,10,Kedd,2021. március 9.,9,-3,erősen felhős,,2021-03-09
+5,2021-03-05,10,Szerda,2021. március 10.,10,-2,közepesen felhős,Melegfront,2021-03-10
+6,2021-03-05,10,Csütörtök,2021. március 11.,11,3,zápor,Hidegfront erős széllel,2021-03-11
+7,2021-03-05,10,Péntek,2021. március 12.,10,5,zápor,,2021-03-12
+8,2021-03-05,10,Szombat,2021. március 13.,11,4,közepesen felhős,,2021-03-13
+9,2021-03-05,10,Vasárnap,2021. március 14.,10,5,zápor,,2021-03-14
+10,2021-03-05,10,Hétfő,2021. március 15.,9,4,erősen felhős,,2021-03-15
+11,2021-03-05,10,Kedd,2021. március 16.,8,3,közepesen felhős,,2021-03-16
+12,2021-03-05,10,Szerda,2021. március 17.,7,2,zápor,,2021-03-17
+13,2021-03-05,10,Csütörtök,2021. március 18.,6,3,közepesen felhős,,2021-03-18
+14,2021-03-05,10,Péntek,2021. március 19.,9,3,közepesen felhős,,2021-03-19
+15,2021-03-05,22,Szombat,2021. március 6.,6,-3,gyengén felhős,,2021-03-06
+16,2021-03-05,22,Vasárnap,2021. március 7.,8,-5,derült,,2021-03-07
+17,2021-03-05,22,Hétfő,2021. március 8.,8,-4,gyengén felhős,,2021-03-08
+18,2021-03-05,22,Kedd,2021. március 9.,8,-3,erősen felhős,,2021-03-09
+19,2021-03-05,22,Szerda,2021. március 10.,9,-3,gyengén felhős,,2021-03-10
+20,2021-03-05,22,Csütörtök,2021. március 11.,12,1,zápor,Szeles nap,2021-03-11
+21,2021-03-05,22,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel,2021-03-12
+22,2021-03-05,22,Szombat,2021. március 13.,11,4,erősen felhős,,2021-03-13
+23,2021-03-05,22,Vasárnap,2021. március 14.,10,4,zápor,,2021-03-14
+24,2021-03-05,22,Hétfő,2021. március 15.,9,3,gyenge eső,,2021-03-15
+25,2021-03-05,22,Kedd,2021. március 16.,8,2,erősen felhős,,2021-03-16
+26,2021-03-05,22,Szerda,2021. március 17.,9,2,közepesen felhős,,2021-03-17
+27,2021-03-05,22,Csütörtök,2021. március 18.,10,2,közepesen felhős,,2021-03-18
+28,2021-03-05,22,Péntek,2021. március 19.,11,3,zápor,,2021-03-19
+29,2021-03-05,22,Szombat,2021. március 20.,12,3,gyengén felhős,,2021-03-20
+30,2021-03-06,10,Szombat,2021. március 6.,6,-4,gyengén felhős,,2021-03-06
+31,2021-03-06,10,Vasárnap,2021. március 7.,8,-5,derült,,2021-03-07
+32,2021-03-06,10,Hétfő,2021. március 8.,8,-4,gyengén felhős,,2021-03-08
+33,2021-03-06,10,Kedd,2021. március 9.,8,-3,erősen felhős,,2021-03-09
+34,2021-03-06,10,Szerda,2021. március 10.,9,-3,gyengén felhős,,2021-03-10
+35,2021-03-06,10,Csütörtök,2021. március 11.,12,1,zápor,Szeles nap,2021-03-11
+36,2021-03-06,10,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel,2021-03-12
+37,2021-03-06,10,Szombat,2021. március 13.,11,4,erősen felhős,,2021-03-13
+38,2021-03-06,10,Vasárnap,2021. március 14.,10,4,zápor,,2021-03-14
+39,2021-03-06,10,Hétfő,2021. március 15.,9,3,gyenge eső,,2021-03-15
+40,2021-03-06,10,Kedd,2021. március 16.,8,2,erősen felhős,,2021-03-16
+41,2021-03-06,10,Szerda,2021. március 17.,9,2,közepesen felhős,,2021-03-17
+42,2021-03-06,10,Csütörtök,2021. március 18.,10,2,közepesen felhős,,2021-03-18
+43,2021-03-06,10,Péntek,2021. március 19.,11,3,zápor,,2021-03-19
+44,2021-03-06,10,Szombat,2021. március 20.,12,3,gyengén felhős,,2021-03-20
+45,2021-03-06,22,Vasárnap,2021. március 7.,8,-7,derült,,2021-03-07
+46,2021-03-06,22,Hétfő,2021. március 8.,9,-6,közepesen felhős,,2021-03-08
+47,2021-03-06,22,Kedd,2021. március 9.,7,-4,erősen felhős,,2021-03-09
+48,2021-03-06,22,Szerda,2021. március 10.,8,-1,zápor,Szeles nap,2021-03-10
+49,2021-03-06,22,Csütörtök,2021. március 11.,10,-2,erősen felhős,Szeles nap,2021-03-11
+50,2021-03-06,22,Péntek,2021. március 12.,11,5,zápor,Hidegfront erős széllel,2021-03-12
+51,2021-03-06,22,Szombat,2021. március 13.,11,3,zápor,Szeles nap,2021-03-13
+52,2021-03-06,22,Vasárnap,2021. március 14.,9,4,zápor,,2021-03-14
+53,2021-03-06,22,Hétfő,2021. március 15.,9,2,zápor,,2021-03-15
+54,2021-03-06,22,Kedd,2021. március 16.,8,2,zápor,,2021-03-16
+55,2021-03-06,22,Szerda,2021. március 17.,7,1,erősen felhős,,2021-03-17
+56,2021-03-06,22,Csütörtök,2021. március 18.,8,2,erősen felhős,,2021-03-18
+57,2021-03-06,22,Péntek,2021. március 19.,9,2,közepesen felhős,,2021-03-19
+58,2021-03-06,22,Szombat,2021. március 20.,10,3,közepesen felhős,,2021-03-20
+59,2021-03-06,22,Vasárnap,2021. március 21.,13,3,közepesen felhős,,2021-03-21
+60,2021-03-07,10,Vasárnap,2021. március 7.,8,-7,derült,,2021-03-07
+61,2021-03-07,10,Hétfő,2021. március 8.,9,-6,közepesen felhős,,2021-03-08
+62,2021-03-07,10,Kedd,2021. március 9.,7,-4,erősen felhős,,2021-03-09
+63,2021-03-07,10,Szerda,2021. március 10.,8,-3,közepesen felhős,,2021-03-10
+64,2021-03-07,10,Csütörtök,2021. március 11.,9,-4,erősen felhős,Szeles nap,2021-03-11
+65,2021-03-07,10,Péntek,2021. március 12.,12,4,zápor,Szeles nap,2021-03-12
+66,2021-03-07,10,Szombat,2021. március 13.,12,3,közepesen felhős,Szeles nap,2021-03-13
+67,2021-03-07,10,Vasárnap,2021. március 14.,12,3,erősen felhős,,2021-03-14
+68,2021-03-07,10,Hétfő,2021. március 15.,11,4,zápor,,2021-03-15
+69,2021-03-07,10,Kedd,2021. március 16.,10,4,erősen felhős,,2021-03-16
+70,2021-03-07,10,Szerda,2021. március 17.,10,3,zápor,,2021-03-17
+71,2021-03-07,10,Csütörtök,2021. március 18.,10,4,zápor,,2021-03-18
+72,2021-03-07,10,Péntek,2021. március 19.,10,3,erősen felhős,,2021-03-19
+73,2021-03-07,10,Szombat,2021. március 20.,11,3,közepesen felhős,,2021-03-20
+74,2021-03-07,10,Vasárnap,2021. március 21.,13,3,közepesen felhős,,2021-03-21
