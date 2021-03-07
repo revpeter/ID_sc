@@ -6,6 +6,14 @@ from datetime import datetime
 import numpy as np
 import os
 
+def ddd(a):
+    for mName, mNum in [("január", "01"), ("február", "02"), ("március", "03"), ("április", "04"), ("május", "05"), ("június", "06"), ("július", "07"), ("augusztus", "08"), ("szeptember", "09"), ("október", "10"), ("novermber", "11"), ("december", "12")]:
+        if mName in a:
+            aSub = a.replace(mName, mNum)
+            return str(datetime.strptime(aSub, '%Y. %m %d.').date())
+        else:
+            continue
+
 page = requests.get("https://www.idokep.hu/idojaras/Budapest")
 soup = BeautifulSoup(page.content, "html.parser")
 
@@ -37,6 +45,8 @@ for i in range(0,len(s1)):
         ftDict["W2"].append(np.nan)
 
 df = pd.DataFrame(ftDict)
+
+df["DateFormat"] = df["Date"].apply(lambda x: ddd(x))
 
 if "akaka.csv" in os.listdir(os.curdir):
     dfBase = pd.read_csv("akaka.csv", index_col=[0])
