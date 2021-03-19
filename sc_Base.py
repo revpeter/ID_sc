@@ -46,7 +46,7 @@ for i in range(0,len(s1)):
 
 df = pd.DataFrame(ftDict)
 
-df["DateFormat"] = df["Date"].apply(lambda x: ddd(x.lower())
+df["DateFormat"] = df["Date"].apply(lambda x: ddd(x.lower()))
 
 if "akaka.csv" in os.listdir(os.curdir):
     dfBase = pd.read_csv("akaka.csv", index_col=[0])
