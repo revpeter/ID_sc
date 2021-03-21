@@ -23,7 +23,7 @@ jobs:
 
       # If using Python:
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirementsSC.txt
 
       # If using Python:
       - name: Pull data
